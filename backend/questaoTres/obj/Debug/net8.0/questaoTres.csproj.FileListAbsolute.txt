@@ -64,3 +64,4 @@ C:\Users\Marcel\Documents\teste tecnico\testeTecnico-TerceiraQuestao\backend\que
 C:\Users\Marcel\Documents\teste tecnico\testeTecnico-TerceiraQuestao\backend\questaoTres\obj\Debug\net8.0\questaoT.2BF1F4A5.Up2Date
 C:\Users\Marcel\Documents\teste tecnico\testeTecnico-TerceiraQuestao\backend\questaoTres\obj\Debug\net8.0\questaoTres.genruntimeconfig.cache
 C:\Users\Marcel\Documents\teste tecnico\testeTecnico-TerceiraQuestao\backend\questaoTres\obj\Debug\net8.0\ref\questaoTres.dll
+C:\Users\Marcel\Documents\teste tecnico\testeTecnico-TerceiraQuestao\backend\questaoTres\obj\Debug\net8.0\questaoTres.sourcelink.json
